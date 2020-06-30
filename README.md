@@ -1,4 +1,5 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Using Docker and TravisCI a pipeline is created to test scripts on TravisCI and then deploying on AWS Elastic Beanstalk after passing all the tests.
 
 ## Available Scripts
 
